@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.local
+.env.development
+
+package-lock.json
+yarn.lock
+
